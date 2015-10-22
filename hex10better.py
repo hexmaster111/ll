@@ -20,7 +20,6 @@ ans = 0
 
 while ans ** root < abs(int(str(output), 10)):
   ans = ans + 1 
-
 if ans ** root != abs(int(str(output), 10)):
   print("Can't do that!")
 elif ans < 0:
