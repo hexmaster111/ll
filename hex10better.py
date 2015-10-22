@@ -1,3 +1,4 @@
+#!/bin/python2
 num = raw_input("Enter number for conversion: ")
 
 base = int(raw_input("Enter your number's base: "))
